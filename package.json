@@ -1,0 +1,26 @@
+{
+  "name": "afdha",
+  "version": "1.0.0",
+  "description": "tea tesnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyapasha/afdha.git"
+  },
+  "keywords": [
+    "percobaan",
+    "tea"
+  ],
+  "author": "zyapasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyapasha/afdha/issues"
+  },
+  "homepage": "https://github.com/zyapasha/afdha#readme",
+  "dependencies": {
+    "afdha": "^1.0.0"
+  }
+}
